@@ -4,7 +4,7 @@
 
 .clickable {
   cursor: pointer;
-  color: #0088cc;
+  color: white;
 }
  .clickable:hover {
    text-decoration: underline;
@@ -27,4 +27,13 @@ h3 {
 
 .row {
   text-align: center;
+}
+
+body{
+  background-image:url(img/bluebackground.jpg);
+}
+
+.jumbotron{
+  background-image:url(img/trees.jpg);
+  background-size: auto;
 }
