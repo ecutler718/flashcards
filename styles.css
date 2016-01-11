@@ -1,0 +1,15 @@
+p{
+  border: 1px solid blue; 
+}
+
+.initially-hidden {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+ .clickable:hover {
+   text-decoration: underline;
+ }
