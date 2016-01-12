@@ -37,3 +37,15 @@ body{
   background-image:url(img/trees.jpg);
   background-size: auto;
 }
+
+.initially-showing {
+  margin-bottom: 2em;
+}
+
+.title {
+  font-size: 17px;
+}
+
+.footer p {
+  margin-left: 2em;
+}
